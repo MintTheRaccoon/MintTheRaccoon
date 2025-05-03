@@ -1,16 +1,13 @@
-## Hi there 👋
+[![Banner](https://github.com/MintTheRaccoon/MintTheRaccoon/blob/main/Green%20Banner.png?raw=true)](https://github.com/MintTheRaccoon "Silly Art")
 
-<!--
-**MintTheRaccoon/MintTheRaccoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🍃 Heya, I'm Mint! ✧
+#### 🦝 part raccoon, part dragon, 100% mess
 
-Here are some ideas to get you started:
+Hobby coder, furry artist and digital trash collector.
+No big dreams here, just chaos & creativity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> » Your treasure's mine, beware if you dare~ «
+# 
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=MintTheRaccoon&show_icons=true&layout=compact&theme=dark)](https://github.com/MintTheRaccoon)
+[![MUL](https://github-readme-stats.vercel.app/api/top-langs/?username=MintTheRaccoon&layout=compact&theme=dark)](https://github.com/MintTheRaccoon)
