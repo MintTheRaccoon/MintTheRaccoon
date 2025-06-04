@@ -1,7 +1,6 @@
 [![Banner](https://github.com/MintTheRaccoon/MintTheRaccoon/blob/main/Green%20Banner.png?raw=true)](https://github.com/MintTheRaccoon "Silly Art")
 
 ### 🍃 Heya, I'm Mint! ✧
-#### 🦝 part raccoon, part dragon, 100% mess
 
 Hobby coder, furry artist and digital trash collector.
 No big dreams here, just chaos & creativity
